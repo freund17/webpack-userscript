@@ -1,0 +1,39 @@
+{
+  "name": "webpack-userscript",
+  "version": "1.0.0",
+  "description": "Template for a Tempermonkey/Greasemonkey userscript using webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freund17/webpack-userscript.git"
+  },
+  "keywords": [
+    "Tempermonkey",
+    "Greasemonkey",
+    "Webpack",
+    "Template"
+  ],
+  "author": "freund17",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freund17/webpack-userscript/issues"
+  },
+  "homepage": "https://github.com/freund17/webpack-userscript#readme",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "exports-loader": "^0.6.3",
+    "file-loader": "^0.8.5",
+    "imports-loader": "^0.6.5",
+    "jade": "^1.11.0",
+    "jade-loader": "^0.8.0",
+    "jquery": "^3.0.0",
+    "node-sass": "^3.7.0",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.1"
+  }
+}

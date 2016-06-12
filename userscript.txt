@@ -1,0 +1,10 @@
+// ==UserScript==
+// @name         MyUserscript
+// @namespace    example.com
+// @version      1.0
+// @description  This is my new userscript
+// @author       You
+// @match        *://*/*
+// @noframes
+// @grant        none
+// ==/UserScript==
