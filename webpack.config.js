@@ -21,3 +21,6 @@ module.exports = {
         ]
     }
 };
+
+if(process.env.NODE_ENV === 'development')
+    module.exports.devtool = 'cheap-module-eval-source-map';
